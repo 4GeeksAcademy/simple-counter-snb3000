@@ -1,0 +1,33 @@
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 5px;
+}
+
+.counter {
+  display: flex;
+  gap: 10px;
+  font-size: 2rem;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.alert-time-input {
+  margin-top: 20px;
+}
+
+.alert-time-input label {
+  margin-right: 10px;
+}
+
+.alert-time-input input {
+  width: 100px;
+  padding: 5px;
+}
